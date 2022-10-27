@@ -6,13 +6,13 @@
 <br/>
 <br/>
 # 2. 프로젝트 개발 환경 및 구조 
-
-<img width="1025" alt="image" src="https://user-images.githubusercontent.com/102211628/198208729-d05d4999-34ce-465c-b5e7-84ec1e1c3d83.png">
 데이터 수집  : 서울 열린 데이터 광장 <br/>
-개발언어 : Python<br/>
+개발언어 : Python <br/>
+<img width="1018" alt="image" src="https://user-images.githubusercontent.com/102211628/198215407-0b96e03e-c264-4050-beaf-a4f033fd7ba4.png">
 <br/>
-# 3. 데이터 분석 및 시각화
--Google 대시보드
+<br/>
+# 3  데이터 분석 및 시각화
+-Google 대시보드 사용
 <img width="932" alt="image" src="https://user-images.githubusercontent.com/102211628/198210852-94d652da-9fbd-4277-9918-ef691dc4c326.png">
 평균 집값이 가장 높은 구 / 건물용도에 따른 평균 집값<br/>
 <img width="975" alt="image" src="https://user-images.githubusercontent.com/102211628/198211791-6901f928-71c9-4b62-ab66-aef9a52d547c.png">
